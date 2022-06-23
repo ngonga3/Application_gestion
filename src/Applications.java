@@ -71,6 +71,10 @@ public class Applications {
        }
 
     }
+    public double Verifier(){
+        double V1=11.2;
+        return V1;
+    }
 }
 
 
